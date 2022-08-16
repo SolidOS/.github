@@ -13,6 +13,6 @@ For an example, see SolidOS Databrowser Frontend deployed on [solidcommunity.net
 Stay up to date:
 
 * Ongoing tasks are on [the Project board](https://github.com/orgs/SolidOS/projects/1/views/3).
-* The SolidOS meets regularly on Wednesdays. Feel free to join, find diling in and time details on the [SolidOS Pod](https://solidos.solidcommunity.net/Team/2021/schedule/solidos-schedule.html). 
+* The SolidOS meets regularly on Wednesdays. Feel free to join, find details like the time and link at [SolidOS Pod](https://solidos.solidcommunity.net/Team/2021/schedule/solidos-schedule.html). 
 
 For more information, a good place to get started is the [SolidOS repo readme](https://github.com/SolidOS/solidos).
