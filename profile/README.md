@@ -2,7 +2,7 @@
   Hey there, welcome to the SolidOS project! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-[![Join the chat at https://matrix.to/#/#solid_solidos:gitter.im](https://matrix.to/#/#solid_solidos:gitter.im)
+Join the chat at [matrix](https://matrix.to/#/#solid_solidos:gitter.im)
 
 
 ```
